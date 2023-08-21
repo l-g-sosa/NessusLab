@@ -1,7 +1,7 @@
 <h1>Vulnerability Management Lab using Nessus</h1>
 
 <h2>Description</h2>
-Utilized VM Workstation Pro to create a Windows 10 lab. Created a virtual machine with Windows 10 to function as machine to be scanned. Ran both credentialed and non-credentialed scans. Scans were analyzed to understand vulnerabilities and performed remediation to the ones that were considered critical and high.
+Utilized VMware Workstation Pro to create a Windows 10 virtual machine 10 to function as the system to be scanned. Ran both credentialed and non-credentialed scans on the virtual machine. Scans were analyzed to understand vulnerabilities and perform remediation to the ones that were considered critical and high.
 
 The Nessus scans were performed on the virtual machine from my personal computer.
 
